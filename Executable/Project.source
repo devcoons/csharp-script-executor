@@ -1,0 +1,21 @@
+namespace Scripts
+{
+	using System;
+
+    class Program : ScriptExecutor.Interfaces.IScript
+    {
+        public string Run()
+        {
+			Console.WriteLine("Script Program Begin");
+			Console.WriteLine("Script Program Initialize object typeof(CustomScript1)");
+		
+			Console.WriteLine(BiosHelper.GetBiosIdentifier());
+		
+			
+			Console.WriteLine("Script Program Ends");		
+            return "Returned value from Compiled Script";
+        }
+		
+
+    }
+}

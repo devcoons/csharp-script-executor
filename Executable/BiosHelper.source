@@ -1,0 +1,33 @@
+﻿namespace Scripts
+{
+	using System;
+	using System.Management;
+	
+    public static class BiosHelper
+    {
+		
+		public static string GetBiosIdentifier()
+        {
+            try
+            {
+				string biosIdentifier = string.Empty;
+				using (ManagementObjectSearcher searcher = new ManagementObjectSearcher("SELECT * FROM Win32_BIOS"))
+				{
+					foreach (ManagementObject mObject in searcher.Get())
+					{
+						biosIdentifier = mObject["Manufacturer"].ToString();
+						break;
+					}
+				}
+
+				return (!string.IsNullOrEmpty(biosIdentifier)) ? biosIdentifier : "N/A";
+            }
+            catch
+            {
+            }
+            return "Unknown";
+        }
+
+    }
+}
+

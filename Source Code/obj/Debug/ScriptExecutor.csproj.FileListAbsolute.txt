@@ -1,0 +1,15 @@
+c:\users\io.d\documents\visual studio 2015\Projects\ScriptExecutor\ScriptExecutor\bin\Debug\ScriptExecutor.exe.config
+c:\users\io.d\documents\visual studio 2015\Projects\ScriptExecutor\ScriptExecutor\bin\Debug\ScriptExecutor.exe
+c:\users\io.d\documents\visual studio 2015\Projects\ScriptExecutor\ScriptExecutor\bin\Debug\ScriptExecutor.pdb
+c:\users\io.d\documents\visual studio 2015\Projects\ScriptExecutor\ScriptExecutor\obj\Debug\ScriptExecutor.csprojResolveAssemblyReference.cache
+c:\users\io.d\documents\visual studio 2015\Projects\ScriptExecutor\ScriptExecutor\obj\Debug\ScriptExecutor.exe
+c:\users\io.d\documents\visual studio 2015\Projects\ScriptExecutor\ScriptExecutor\obj\Debug\ScriptExecutor.pdb
+C:\Users\Io.D\OneDrive\Projects\Applications\Script Code Executor\Source Code\bin\Debug\ScriptExecutor.exe.config
+C:\Users\Io.D\OneDrive\Projects\Applications\Script Code Executor\Source Code\obj\Debug\ScriptExecutor.exe
+C:\Users\Io.D\OneDrive\Projects\Applications\Script Code Executor\Source Code\obj\Debug\ScriptExecutor.pdb
+C:\Users\Io.D\OneDrive\Projects\Applications\Script Code Executor\Executable\ScriptExecutor.exe.config
+C:\Users\Io.D\OneDrive\Projects\Applications\Script Code Executor\Executable\ScriptExecutor.exe
+C:\Users\Io.D\OneDrive\Projects\Applications\Script Code Executor\Executable\ScriptExecutor.pdb
+C:\Users\Io.D\OneDrive\Projects\Applications\Script Code Executor\Executable\BiosHelper.source
+C:\Users\Io.D\OneDrive\Projects\Applications\Script Code Executor\Executable\Project.assemblies
+C:\Users\Io.D\OneDrive\Projects\Applications\Script Code Executor\Executable\Project.source
